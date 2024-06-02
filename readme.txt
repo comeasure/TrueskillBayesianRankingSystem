@@ -1,0 +1,1 @@
+All codes are included in runme.ipynb. Run all blocks and you can get the results of all questions. It is noted that the codes for each question are titled “Q%” and the resulting figures and tables(in the format of .csv) are saved in the working directory. 
